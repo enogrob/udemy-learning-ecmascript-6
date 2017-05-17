@@ -18,10 +18,10 @@ Take your first steps into the new world of `ECMAScript` to effortlessly code in
 Section: 1
 0 / 4
 Setting Up Your Environment
-[ ] 1. The Course Overview 5:43
-[ ] 2. Installing Tools 3:34
-[ ] 3. Basic Transpiling 3:43
-[ ] 4. Browser Support 4:04
+[x] 1. The Course Overview 5:43
+[x] 2. Installing Tools 3:34
+[x] 3. Basic Transpiling 3:43
+[x] 4. Browser Support 4:04
 
 Section: 2
 0 / 3
