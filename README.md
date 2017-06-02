@@ -27,8 +27,8 @@ Section: 2
 0 / 3
 ES6 Basics
 [x] 5. Setting Up a Sample Application 4:07
-[ ] 6. let Versus var Versus const 3:11
-[ ] 7. Using an Arrow 4:13
+[x] 6. let Versus var Versus const 3:11
+[x] 7. Using an Arrow 4:13
 
 Section: 3
 0 / 3
